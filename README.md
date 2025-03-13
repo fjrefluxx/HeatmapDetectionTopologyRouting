@@ -1,4 +1,4 @@
-# Topology-Aware Routing
+# Heatmap Hotspot Detection and Topology-Aware Routing
 
 Python implementation of a grid-based hotspot detection and routing algorithm, 
 based on an original Java implementation (cf. [the paper](#acknowledging-this-work)).
